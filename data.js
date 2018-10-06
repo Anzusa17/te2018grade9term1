@@ -16,7 +16,7 @@ let likesSleep= true;
 let hatesGoogle= false;
 console.log(typeof isTired);
 console.log(typeof ideas);
-const READLINE= require("readline-sync");
+const READLINE= require("readline-sync")
 let userInput= READLINE.question("hello");
 console.log('hello:${userInput}');
 
