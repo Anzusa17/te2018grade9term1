@@ -1,16 +1,14 @@
 // Variables
 let num1 = 5;
 let num2 = 10;
-
-// **** Problem 1 ****
-// Store the sum of num1 and num2 in a variable.
-// Print the sum.
 let sum = num1 + num2;
-console.log(sum);
+
+
 
 // **** Problem 2 ****
 // Store the difference between sum (above) and 7 in a variable.
 // Print the difference.
+
 
 
 // **** Problem 3 ****
