@@ -1,4 +1,3 @@
-// import readline-sync module, don't touch!
 const READLINE = require("readline-sync");
 let y = READLINE.question("Type the year for Easter: ");
 console.log(`y=${y}`);
@@ -31,4 +30,9 @@ console.log(`n=${n}`);
 let p = Math.floor((h+r-7*m+114) % 31);
 console.log(`p=${p}`);
 console.log(`In year ${y} , Easter falls on ${n}/${p+1}`);
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 85b0f58dc96bc3b9503c669932d65fdccde575cd
 
